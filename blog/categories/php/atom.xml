@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Php | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-05-21T13:40:49+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我是博客]]></title>
+    <link href="http://yoursite.com/blog/2015/05/21/osblog/"/>
+    <updated>2015-05-21T12:49:07+08:00</updated>
+    <id>http://yoursite.com/blog/2015/05/21/osblog</id>
+    <content type="html"><![CDATA[<h1>你好PHP</h1>
+
+<h2>学习学习学习</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>PHP</li>
+<li>HTML</li>
+<li>MYSQL</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://youku.com">视频</a></p>
+
+<p><img src="http://rvm.io/images/logo.png" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls poster='http://rvm.io/images/logo.png">http://rvm.io/images/logo.png</a>'><source src='http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4">http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4</a>' ></video></p>
+
+<pre><code>public function oscms{
+    $this-&gt;display('index');
+}
+</code></pre>
+
+<pre><code class="PHP This is a php http://baidu.com baidu">public function oscms{
+    $this-&gt;display('index');
+}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>This is a php <a href="http://baidu.com">http://baidu.com</a> baidu </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">public</span> <span class="n">function</span> <span class="n">oscms</span><span class="o">{</span>
+</span><span class='line'>    <span class="n">$this</span><span class="o">-&gt;</span><span class="n">display</span><span class="o">(&amp;</span><span class="n">lsquo</span><span class="o">;</span><span class="n">index</span><span class="o">&amp;</span><span class="n">rsquo</span><span class="o">;);</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
